@@ -9,16 +9,16 @@ Este código é um jogo inspirado no Flappy Bird. Ele cria um ambiente de jogo c
  
 
 Passo a passo do código: 
-- 1. Define o título do jogo e inicializa variáveis. 
-- 2. Carrega os recursos do jogo (imagens e sons). 
-- 3. Cria o plano de fundo e suas propriedades. 
-- 4. Define as funções para criar o chão, verificar colisões e criar o pássaro. 
-- 5. Cria mensagens de "Get Ready" e "Game Over". 
-- 6. Define os canos e as funções para desenhá-los e atualizá-los. 
-- 7. Cria o placar e suas funções. 
-- 8. Define as telas do jogo e suas funcionalidades. 
-- 9. Inicia o loop do jogo e adiciona um evento de clique para interação com o jogo. 
-- 10. Inicializa a tela de início do jogo e inicia o loop do jogo. 
+- 1 Define o título do jogo e inicializa variáveis. 
+- 2 Carrega os recursos do jogo (imagens e sons). 
+- 3 Cria o plano de fundo e suas propriedades. 
+- 4 Define as funções para criar o chão, verificar colisões e criar o pássaro. 
+- 5 Cria mensagens de "Get Ready" e "Game Over". 
+- 6 Define os canos e as funções para desenhá-los e atualizá-los. 
+- 7 Cria o placar e suas funções. 
+- 8 Define as telas do jogo e suas funcionalidades. 
+- 9 Inicia o loop do jogo e adiciona um evento de clique para interação com o jogo. 
+- 10 Inicializa a tela de início do jogo e inicia o loop do jogo. 
  
 - Este código cria um jogo simples do estilo Flappy Bird usando HTML5 Canvas e JavaScript. Ele implementa a lógica do jogo, incluindo a movimentação do pássaro, a geração de obstáculos e a pontuação.
 
