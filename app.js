@@ -1,6 +1,3 @@
-console.log('[DevSoutinho] Flappy Bird');
-
-
 let frames = 0;
 const som_HIT = new Audio();
 som_HIT.src = './efeito/hit.wav';
