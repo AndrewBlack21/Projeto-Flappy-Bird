@@ -7,6 +7,7 @@
 
 Este código é um jogo inspirado no Flappy Bird. Ele cria um ambiente de jogo com um pássaro que deve desviar de obstáculos enquanto voa. O código define várias funções para criar o pássaro, o plano de fundo, os canos, o chão, o placar e as telas do jogo. Ele também trata de colisões, pontuação e transições entre as telas do jogo. 
  
+
 Passo a passo do código: 
 - 1. Define o título do jogo e inicializa variáveis. 
 - 2. Carrega os recursos do jogo (imagens e sons). 
